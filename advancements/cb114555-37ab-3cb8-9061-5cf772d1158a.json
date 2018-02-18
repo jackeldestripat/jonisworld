@@ -99,6 +99,7 @@
       "desert_hills": "2018-01-20 20:29:43 +0100",
       "savanna": "2018-01-20 20:32:30 +0100",
       "plains": "2018-01-20 20:21:55 +0100",
+      "savanna_rock": "2018-02-17 22:00:52 +0100",
       "ice_mountains": "2018-01-20 20:24:53 +0100",
       "taiga": "2018-01-20 20:16:30 +0100",
       "taiga_hills": "2018-01-20 20:21:06 +0100",
@@ -202,6 +203,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2018-01-20 20:31:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-02-17 21:52:12 +0100"
     },
     "done": true
   },
