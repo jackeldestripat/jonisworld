@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-02-19 06:49:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2018-02-11 21:00:40 +0100"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2018-02-21 01:37:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2018-01-14 21:35:25 +0100"
@@ -546,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-03-02 21:31:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2018-02-03 04:44:34 +0100"
@@ -566,6 +584,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2018-03-11 22:52:27 +0100",
+      "slime": "2018-03-11 22:47:52 +0100",
       "skeleton": "2018-01-11 02:48:40 +0100",
       "husk": "2018-01-15 06:53:15 +0100",
       "zombie": "2018-01-06 05:55:31 +0100",
@@ -607,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2018-02-25 22:53:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-01-06 04:45:37 +0100"
@@ -628,6 +654,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2018-01-07 21:53:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2018-02-25 22:53:15 +0100"
     },
     "done": true
   },
@@ -757,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2018-02-28 03:16:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-07 02:34:00 +0100"
@@ -850,6 +888,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2018-01-29 03:24:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-02-20 03:52:25 +0100"
     },
     "done": true
   },
@@ -1030,6 +1074,7 @@
       "ocean": "2018-01-06 05:03:50 +0100",
       "extreme_hills": "2018-01-19 02:49:35 +0100",
       "river": "2018-01-06 23:34:57 +0100",
+      "jungle": "2018-02-20 03:41:16 +0100",
       "desert": "2018-01-15 04:43:20 +0100",
       "stone_beach": "2018-01-19 02:49:10 +0100"
     },
@@ -1080,6 +1125,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-01-06 03:51:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2018-02-21 01:37:32 +0100"
     },
     "done": true
   },
@@ -1149,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2018-02-19 21:45:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2018-01-07 00:10:40 +0100"
@@ -1176,6 +1233,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-01-06 04:31:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2018-02-25 22:53:15 +0100"
     },
     "done": true
   },
@@ -1344,6 +1407,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2018-01-18 02:13:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2018-02-21 01:37:32 +0100"
     },
     "done": true
   },
@@ -2013,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2018-02-19 08:53:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2018-01-06 04:31:26 +0100"
@@ -2097,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-02-19 06:49:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2018-01-06 03:51:16 +0100"
@@ -2136,6 +2217,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2018-01-07 21:47:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-03-02 21:31:33 +0100"
     },
     "done": true
   },
@@ -2283,6 +2370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-03-02 21:31:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-01-06 03:50:19 +0100"
@@ -2331,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-03-02 21:31:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2018-01-22 00:40:47 +0100"
@@ -2364,6 +2463,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2018-01-08 21:30:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-03-02 21:31:33 +0100"
     },
     "done": true
   },
